@@ -23,3 +23,14 @@ This project simulates a highly realistic banking API environment to generate, a
 * **Data Science:** Pandas, Scikit-Learn (Isolation Forest)
 * **Data Visualization:** Plotly (3D Interactive), Seaborn, Matplotlib
 
+### 📊 Key Findings & Visualizations
+
+**3D Threat Landscape**
+![3D Threat Landscape](images/threat_landscape.png)
+
+**Correlation Heatmap**
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+**Threat Data Pairplot**
+![Pairplot Matrix](images/pairplot_matrix.png)
+
