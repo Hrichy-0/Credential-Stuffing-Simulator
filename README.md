@@ -32,5 +32,5 @@ This project simulates a highly realistic banking API environment to generate, a
 ![Correlation Heatmap]([images/correlation_heatmap.png](https://github.com/Hrichy-0/Credential-Stuffing-Simulator/tree/main/images#:~:text=1%20minute%20ago-,featureboxplots.png,-Add%20files%20via))
 
 **Threat Data Pairplot**
-![Pairplot Matrix](images/pairplot_matrix.png)
+![Pairplot Matrix]([images/pairplot_matrix.png](https://github.com/Hrichy-0/Credential-Stuffing-Simulator/tree/main/images#:~:text=threatbehaviourcorrelationmatrix.png))
 
