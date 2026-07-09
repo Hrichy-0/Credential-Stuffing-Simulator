@@ -29,7 +29,7 @@ This project simulates a highly realistic banking API environment to generate, a
 ![3D Threat Landscape]([images/threat_landscape.png](https://github.com/Hrichy-0/Credential-Stuffing-Simulator/tree/main/images#:~:text=3Dthreatanalysis.png))
 
 **Correlation Heatmap**
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap]([images/correlation_heatmap.png](https://github.com/Hrichy-0/Credential-Stuffing-Simulator/tree/main/images#:~:text=1%20minute%20ago-,featureboxplots.png,-Add%20files%20via))
 
 **Threat Data Pairplot**
 ![Pairplot Matrix](images/pairplot_matrix.png)
